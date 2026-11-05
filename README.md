@@ -19,7 +19,7 @@ Parte de **Data Days: AI @Work** (2 de noviembre – 15 de diciembre de 2026) �
 | | |
 |---|---|
 | **Cierre de entregas** | domingo **29 de noviembre de 2026** |
-| **Vivo de soluciones** | miércoles **2 de diciembre de 2026**, 20:00 h Argentina |
+| **Vivo de soluciones** | miércoles **2 de diciembre de 2026** · 20:30 h Argentina · 18:30 h Perú |
 | **Nivel** | Básico a intermedio |
 | **Costo** | Gratis |
 
@@ -28,7 +28,7 @@ Parte de **Data Days: AI @Work** (2 de noviembre – 15 de diciembre de 2026) �
 1. **Descarga el modelo** → [`03ra Edicion Reto DAX.pbix`](./03ra%20Edicion%20Reto%20DAX.pbix)
 2. **Lee la consigna** → [`3er-Reto-DAX.pdf`](./3er-Reto-DAX.pdf)
 3. **Resuelve las tres medidas** en tu propio Power BI Desktop.
-4. **Entrega tus fórmulas** → ⚠️ *pendiente: link del formulario*
+4. **Entrega tus fórmulas** → **[Formulario de entrega](https://forms.cloud.microsoft/r/1PjMJy3hAm)**
 
 Puedes entregar uno, dos o los tres retos: se evalúa lo que mandes.
 
@@ -48,9 +48,13 @@ Data Days: AI @Work se trata exactamente de eso: qué resuelve la IA de verdad, 
 
 Pon el número real, aunque sea alto. Aunque sea cero.
 
-### Certificado
+### 🏆 Premios para el Legendario Ganador
 
-Quienes resuelvan correctamente reciben un **certificado** de participación. Por eso el formulario pide un contacto: es para poder enviártelo.
+- ✨ **Certificado de Reconocimiento** con tu nombre
+- 📣 **Mención Épica** en redes sociales
+- 🌟 **Recomendación de tus habilidades** en LinkedIn
+
+Por eso el formulario pide un contacto: es para poder encontrarte.
 
 ---
 
