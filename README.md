@@ -25,8 +25,8 @@ Parte de **Data Days: AI @Work** (2 de noviembre – 15 de diciembre de 2026) �
 
 ### Cómo participar
 
-1. **Descarga el modelo** → [`reto-dax-03.pbix`](./reto-dax-03.pbix)
-2. **Lee la consigna** → [`explicacion-reto-03.pdf`](./explicacion-reto-03.pdf)
+1. **Descarga el modelo** → [`03ra Edicion Reto DAX.pbix`](./03ra%20Edicion%20Reto%20DAX.pbix)
+2. **Lee la consigna** → [`3er-Reto-DAX.pdf`](./3er-Reto-DAX.pdf)
 3. **Resuelve las tres medidas** en tu propio Power BI Desktop.
 4. **Entrega tus fórmulas** → ⚠️ *pendiente: link del formulario*
 
