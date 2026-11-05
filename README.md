@@ -19,9 +19,10 @@ Parte de **Data Days: AI @Work** (2 de noviembre – 15 de diciembre de 2026) �
 | | |
 |---|---|
 | **Cierre de entregas** | domingo **29 de noviembre de 2026** |
-| **Vivo de soluciones** | miércoles **2 de diciembre de 2026** · 20:30 h Argentina · 18:30 h Perú<br>desde el canal de Deyvit, **Rapid Excel** |
+| **Vivo de soluciones** | martes **1 de diciembre de 2026** · 20:30 h Argentina · 18:30 h Perú<br>desde el canal de Deyvit, **Rapid Excel** → **[ver el vivo](https://www.youtube.com/live/3W-Olv5lTV4)** |
 | **Nivel** | Básico a intermedio |
 | **Costo** | Gratis |
+| **Entregas** | **[Formulario de entrega](https://forms.cloud.microsoft/r/1PjMJy3hAm)** |
 
 ### Cómo participar
 
