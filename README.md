@@ -2,7 +2,7 @@
 
 Desafíos de DAX en español para la comunidad de Power BI.
 
-Cada edición trae un modelo `.pbix`, una consigna en PDF y un plazo de entrega. Resuelves las medidas por tu cuenta, entregas tus fórmulas y después explicamos las soluciones en vivo.
+Cada edición trae un modelo `.pbix`, una consigna en PDF y un plazo de entrega. Resuelves las medidas por tu cuenta, entregas tu código DAX y después explicamos las soluciones en vivo.
 
 Gratis, abierto a cualquiera y sin necesidad de cuenta en ningún lado.
 
@@ -19,7 +19,7 @@ Parte de **Data Days: AI @Work** (2 de noviembre – 15 de diciembre de 2026) �
 | | |
 |---|---|
 | **Cierre de entregas** | domingo **29 de noviembre de 2026** |
-| **Vivo de soluciones** | miércoles **2 de diciembre de 2026** · 20:30 h Argentina · 18:30 h Perú |
+| **Vivo de soluciones** | miércoles **2 de diciembre de 2026** · 20:30 h Argentina · 18:30 h Perú<br>desde el canal de Deyvit, **Rapid Excel** |
 | **Nivel** | Básico a intermedio |
 | **Costo** | Gratis |
 
@@ -28,7 +28,7 @@ Parte de **Data Days: AI @Work** (2 de noviembre – 15 de diciembre de 2026) �
 1. **Descarga el modelo** → [`03ra Edicion Reto DAX.pbix`](./03ra%20Edicion%20Reto%20DAX.pbix)
 2. **Lee la consigna** → [`3er-Reto-DAX.pdf`](./3er-Reto-DAX.pdf)
 3. **Resuelve las tres medidas** en tu propio Power BI Desktop.
-4. **Entrega tus fórmulas** → **[Formulario de entrega](https://forms.cloud.microsoft/r/1PjMJy3hAm)**
+4. **Entrega tu código DAX** → **[Formulario de entrega](https://forms.cloud.microsoft/r/1PjMJy3hAm)**
 
 Puedes entregar uno, dos o los tres retos: se evalúa lo que mandes.
 
@@ -42,11 +42,11 @@ Puedes entregar uno, dos o los tres retos: se evalúa lo que mandes.
 
 ### ¿Lo resolviste con IA?
 
-Desde esta edición **se puede usar IA**, y el formulario te pregunta cuántos prompts necesitaste. No descalifica y no es trampa.
+Desde esta edición **se puede usar IA**, y el formulario te pregunta cuántos prompts necesitaste para resolver los tres retos. No descalifica y no es trampa.
 
-Data Days: AI @Work se trata exactamente de eso: qué resuelve la IA de verdad, dónde se queda corta y cuánto criterio propio sigue haciendo falta para que una medida salga bien. Una fórmula que *parece* correcta pero devuelve mal el desempate es justamente el caso que vale la pena contar.
+Data Days: AI @Work se trata exactamente de eso: qué resuelve la IA de verdad, dónde se queda corta y cuánto criterio propio sigue haciendo falta para que una medida salga bien. Un código DAX que *parece* correcto pero devuelve mal el desempate es justamente el caso que vale la pena contar.
 
-Pon el número real, aunque sea alto. Aunque sea cero.
+Pon el número real, aunque sea alto. **Y si lo resolviste sin IA, pon 0** — ese cero también cuenta una historia, y es la que más nos interesa escuchar.
 
 ### 🏆 Premios para el Legendario Ganador
 
