@@ -61,10 +61,10 @@ Por eso el formulario pide un contacto: es para poder encontrarte.
 
 ## Ediciones anteriores
 
-| Edición | Lema | Resolución en vivo |
-|---|---|---|
-| **2ª** | *Resuelve y conquista* | [Ver en YouTube](https://www.youtube.com/live/89SAtujbidI) |
-| **1ª** | *Lógica, velocidad y precisión* | [Ver en YouTube](https://www.youtube.com/live/_lz21AetrWM) |
+| Edición | Cuándo | Lema | Resolución en vivo |
+|---|---|---|---|
+| **2ª** | 3 de diciembre de 2024 | *Resuelve y conquista* | [Ver en YouTube](https://www.youtube.com/live/89SAtujbidI) |
+| **1ª** | 28 de octubre de 2024 | *Lógica, velocidad y precisión* | [Ver en YouTube](https://www.youtube.com/live/_lz21AetrWM) |
 
 ---
 
